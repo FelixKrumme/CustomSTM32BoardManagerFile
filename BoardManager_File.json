@@ -14,7 +14,7 @@
             "url": "https://github.com/FelixKrumme/CustomSTM32BoardManagerFile/blob/main/stm32.tar.bz2",
             "archiveFileName": "stm32.tar.bz2",
             "checksum": "SHA-256:E65C576B65B0770460BDD131E0BFC14E0FAF303BCC07A81C1ED218AB489350AA",
-            "size": "44787578",
+            "size": "121335",
             "boards": [
               {"name": "Custom STM32L4 Board"},
               {"name": "Custom STM32U5 Board"}
